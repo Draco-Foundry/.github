@@ -19,7 +19,8 @@ A browser extension that turns your RSI hangar into something you can actually u
 - Make a picture of your fleet (or just the stuff you're selling) to share
 - Export to FleetYards and other community tools
 
-Live on Chrome and Firefox, with Edge on the way.Get it at **[openhangar.space](https://openhangar.space)**.
+Live on Chrome and Firefox, with Edge on the way.
+Get it at **[openhangar.space](https://openhangar.space)**.
 
 ## Get involved
 
