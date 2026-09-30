@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner.jpg" alt="Draco Foundry: a Starfarer cruising over a blue planet" width="100%">
+  <img src="banner.jpg" alt="Draco Foundry: free tools for Star Citizen players, next to the Open Hangar dashboard" width="100%">
 </p>
 
 ## Welcome to Draco Foundry 👋
 
-We build free, open-source tools for Star Citizen players. Everything we make runs
+We build free, source-available tools for Star Citizen players. Everything we make runs
 on your own machine, needs no account, and never sends your data anywhere.
 
 ## Projects
@@ -19,7 +19,7 @@ A browser extension that turns your RSI hangar into something you can actually u
 - Make a picture of your fleet (or just the stuff you're selling) to share
 - Export to FleetYards and other community tools
 
-Live on Chrome and Firefox, with Edge on the way.
+Live on Chrome, Edge and Firefox.
 Get it at **[openhangar.space](https://openhangar.space)**.
 
 ## Get involved
