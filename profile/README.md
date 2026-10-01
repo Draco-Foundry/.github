@@ -4,8 +4,9 @@
 
 ## Welcome to Draco Foundry 👋
 
-We build free, source-available tools for Star Citizen players. Everything we make runs
-on your own machine, needs no account, and never sends your data anywhere.
+We build free, source-available tools for Star Citizen players. Our tools run on your own
+machine and need no account. Anything online is opt-in, and you can take your data out or
+delete it any time.
 
 ## Projects
 
@@ -22,13 +23,20 @@ A browser extension that turns your RSI hangar into something you can actually u
 Live on Chrome, Edge and Firefox.
 Get it at **[openhangar.space](https://openhangar.space)**.
 
+### 🌐 Open Hangar Website (invite-only for now)
+
+An optional companion at [app.openhangar.space](https://app.openhangar.space): sync your hangar
+from the extension, see it on any device and keep its history over the years. Nothing syncs
+unless you press Sync, and the extension works fine without it.
+
 ## Get involved
 
 - 💡 **Got an idea?** Post it on the [Ideas board](https://github.com/Draco-Foundry/open-hangar/discussions/categories/ideas) and upvote the ones you want
 - 🐞 **Found a bug?** [Open an issue](https://github.com/Draco-Foundry/open-hangar/issues/new/choose)
 - 💬 **Just want to chat?** Come hang out on [Discord](https://discord.gg/FF8Wm5HdnV)
+- ☕ **Want to chip in?** [Ko-fi](https://ko-fi.com/dracofoundry) or [Patreon](https://www.patreon.com/DracoFoundry), totally optional, everything stays free
 - 🛠️ **Want to help build?** Pull requests are welcome, start with the [contributing guide](https://github.com/Draco-Foundry/open-hangar/blob/main/CONTRIBUTING.md)
 
 ---
 
-<sub>Not affiliated with Cloud Imperium Games. Star Citizen and all ships shown are © Cloud Imperium Rights LLC.</sub>
+<sub>Draco Foundry, LLC. Not affiliated with Cloud Imperium Games. Star Citizen and all ships shown are © Cloud Imperium Rights LLC.</sub>
