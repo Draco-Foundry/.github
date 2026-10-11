@@ -4,8 +4,6 @@
 
 ## Welcome to Draco Foundry
 
-[![Open Hangar Updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDraco-Foundry%2Fopen-hangar%2Fbadges%2Flast-updated.json&label=Open%20Hangar%20Updated&style=flat)](https://github.com/Draco-Foundry/open-hangar/commits/main)
-
 We build free, source-available tools for Star Citizen players. No subscriptions, no paid
 features, and your data is never sold. Anything online is optional, and you can take your
 data out or delete it any time.
@@ -13,6 +11,12 @@ data out or delete it any time.
 ## Projects
 
 ### [Open Hangar](https://github.com/Draco-Foundry/open-hangar)
+
+[![Release](https://img.shields.io/github/v/release/Draco-Foundry/open-hangar?label=Release&style=flat)](https://github.com/Draco-Foundry/open-hangar/releases/latest)
+[![Chrome](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopenhangar.space%2Fversions.json&prefix=v&style=flat&query=%24.stores.chrome.live&label=Chrome)](https://chromewebstore.google.com/detail/open-hangar/aeabioadfphghjennmdbnpelojlhndjl)
+[![Edge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopenhangar.space%2Fversions.json&prefix=v&style=flat&query=%24.stores.edge.live&label=Edge)](https://microsoftedge.microsoft.com/addons/detail/fmcnemfepnifokjelgjacgdhoodaiicl)
+[![Firefox](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopenhangar.space%2Fversions.json&prefix=v&style=flat&query=%24.stores.firefox.live&label=Firefox)](https://addons.mozilla.org/en-US/firefox/addon/open-hangar/)
+[![Last Updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDraco-Foundry%2Fopen-hangar%2Fbadges%2Flast-updated.json&style=flat)](https://github.com/Draco-Foundry/open-hangar/commits/main)
 
 _The free Star Citizen fleet manager._ Its browser extension reads your own RSI account
 right in your browser, using the session you're already signed in with:
