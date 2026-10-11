@@ -4,6 +4,8 @@
 
 ## Welcome to Draco Foundry
 
+[![Open Hangar Updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDraco-Foundry%2Fopen-hangar%2Fbadges%2Flast-updated.json&label=Open%20Hangar%20Updated&style=flat)](https://github.com/Draco-Foundry/open-hangar/commits/main)
+
 We build free, source-available tools for Star Citizen players. No subscriptions, no paid
 features, and your data is never sold. Anything online is optional, and you can take your
 data out or delete it any time.
