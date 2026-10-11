@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Draco Foundry: free tools for Star Citizen players, next to the Open Hangar dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/Draco-Foundry/.github/main/profile/banner.jpg" alt="Draco Foundry: free tools for Star Citizen players, next to the Open Hangar dashboard" width="100%">
 </p>
 
 ## Welcome to Draco Foundry
