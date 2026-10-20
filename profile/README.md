@@ -32,9 +32,9 @@ Get it at **[openhangar.space](https://openhangar.space/extension)**.
 
 [openhangar.space](https://openhangar.space) is where new features land: Star Citizen news
 and the Open Hangar Store today, and from November 10 your fleet manager, with My Hangar on
-any device. Syncing is optional and comes with extension 0.3.0 on the same day: connect a
-free account and the extension syncs after every scan, or skip it and your hangar stays in
-your browser. You can disconnect any time.
+any device. Sync is optional and already works in the extension on Chrome, Edge and Firefox.
+Accounts are invite-only until sign-ups open to everyone on November 10. You can disconnect
+any time.
 
 Accounts are an invite-only beta until then, with invites on our
 [Discord](https://discord.gg/FF8Wm5HdnV). Sign-ups open to everyone on November 10.
@@ -49,4 +49,4 @@ Accounts are an invite-only beta until then, with invites on our
 
 ---
 
-<sub>Draco Foundry, LLC. Not affiliated with Cloud Imperium Games. Star Citizen and all ships shown are © Cloud Imperium Rights LLC.</sub>
+<sub>Draco Foundry, LLC. Open Hangar is an unofficial Star Citizen fan project, not affiliated with the Cloud Imperium group of companies. Star Citizen and all ships shown are © Cloud Imperium Rights LLC.</sub>
