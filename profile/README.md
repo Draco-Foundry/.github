@@ -19,7 +19,7 @@ data out or delete it any time.
 _The free Star Citizen fleet manager._ Its browser extension reads your own RSI account
 right in your browser, using the session you're already signed in with:
 
-- See what your ships are worth at today's store prices, and what you paid for them
+- See your Melt Value and what you paid for your pledges
 - Find melt candidates and check what your CCUs saved you
 - Fleet stats, buy-backs, pledge history and what changed since your last scan
 - Make a picture of your fleet (or just the stuff you're selling) to share
@@ -28,16 +28,14 @@ right in your browser, using the session you're already signed in with:
 Live on Chrome, Edge and Firefox.
 Get it at **[openhangar.space](https://openhangar.space/extension)**.
 
-### Open Hangar Website (Invite-Only Until November 10)
+### Open Hangar Website
 
-[openhangar.space](https://openhangar.space) is where new features land: Star Citizen news
-and the Open Hangar Store today, and from November 10 your fleet manager, with My Hangar on
-any device. Syncing is optional and comes with extension 0.3.0 on the same day: connect a
-free account and the extension syncs after every scan, or skip it and your hangar stays in
-your browser. You can disconnect any time.
+[openhangar.space](https://openhangar.space) is your fleet manager on any device, phone
+included: My Hangar, Star Citizen news, and the Open Hangar Store. New features land there.
+Sync is optional: connect a free account and the extension syncs after every scan, or skip it
+and your hangar stays in your browser. You can disconnect any time.
 
-Accounts are an invite-only beta until then, with invites on our
-[Discord](https://discord.gg/FF8Wm5HdnV). Sign-ups open to everyone on November 10.
+Accounts are open to everyone at [app.openhangar.space](https://app.openhangar.space).
 
 ## Get Involved
 
@@ -49,4 +47,4 @@ Accounts are an invite-only beta until then, with invites on our
 
 ---
 
-<sub>Draco Foundry, LLC. Not affiliated with Cloud Imperium Games. Star Citizen and all ships shown are © Cloud Imperium Rights LLC.</sub>
+<sub>Draco Foundry, LLC. Open Hangar is an unofficial Star Citizen fan project, not affiliated with the Cloud Imperium group of companies. Star Citizen and all ships shown are © Cloud Imperium Rights LLC.</sub>
